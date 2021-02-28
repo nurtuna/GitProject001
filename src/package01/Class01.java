@@ -7,6 +7,7 @@ public class Class01 {
 		//Hello everyone
 		//Welcome to Git Sessions
            //Thank you for joining
+		//we are on same line on remote
 	}
 
 }
